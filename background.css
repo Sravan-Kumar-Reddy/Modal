@@ -1,0 +1,21 @@
+body{
+    margin:0;
+
+}
+.fullbody{
+    margin: 0;
+    background: url("lipsum.jpg");
+    width:100vw;
+    height: 250vw;
+}
+.section{
+    background: #cccccc;
+    position: absolute;
+    height:50vw;
+    width:75vw;
+    margin-left: 10vw;
+    margin-top: 5.05vw;
+    padding: 2vw 0 0 2vw;
+    border-radius: 4px;
+    box-shadow:  0 8px 16px #4da6ff;
+}
